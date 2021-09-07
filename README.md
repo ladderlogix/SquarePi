@@ -1,10 +1,11 @@
 # SquarePi
 There are many werid ways to calculate pi. This way uses a squre and a circle with the radius of one and randomly points the dots and using some math with can aproxmityly find pi
 
-##How to use
+## How to use
 Run main.py and edit the config that pops up
 
-##Installation
+## Installation
+
 1.) Clone
 ``` Bash
 git clone github.com/sglombicki/SqurePi.git
