@@ -20,3 +20,8 @@ pip install Pygame
 ``` Bash
 python3 main.py
 ```
+## Math behind the idea
+```python
+pi = 4*(NumberInCircle/NumberOfCircles)
+```
+The idea is that generating random numbers and ploting them on a graph with a circle we can aproximate its area by finding the ratio and times it by 4
